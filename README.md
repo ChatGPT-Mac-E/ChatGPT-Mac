@@ -27,7 +27,7 @@ The <a href="#chatGPT">developer use case</a> uses ChatGPT for code explanation,
 The <a href="#chatGPT">student and researcher use case</a> covers explaining complex concepts, working through problems, research assistance, essay feedback, and the AI tutoring that ChatGPT provides across academic subjects. <a href="#chatGPT">Professional knowledge work use case</a> uses ChatGPT for analysis, summarization of documents, email drafting, research, and the everyday knowledge tasks that professionals perform — making the AI assistant a general-purpose intelligence layer accessible throughout the Mac workflow.</p>
 
 <p align="center">
-  <img src="https://help.apple.com/assets/694058E34AF4DAFE100B21F0/694058E5E47399E70903F18D/ru_RU/ac0f61c65f4cc9523fb8196855ca6e86.png" alt="ChatGPT screenshot"/>
+  <img src="https://helios-i.mashable.com/imagery/articles/00psvIygni12PIhamhKCF7F/hero-image.fill.size_1248x702.v1670504871.jpg" alt="ChatGPT screenshot"/>
 </p>
 
 <a href="#chatGPT">Screenshot and screen analysis</a> takes a screenshot and asks ChatGPT to analyze what it shows — reading text in screenshots, explaining interface elements, identifying objects in images, and answering questions about visual Mac content through the Mac application's screenshot integration. <a href="#chatGPT">Memory across conversations</a> allows ChatGPT to remember information from previous sessions for personalized, context-aware responses that don't require re-introducing context in each new conversation.
